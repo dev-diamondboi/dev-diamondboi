@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ovovwero Peter Unuavwodo (dev-diamondboi)
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer who loves exploring and creating innovative software solutions. My journey in tech is fueled by curiosity and a desire to make a positive impact through code. View my portfolio at - (https://ovovwero.vercel.app/)
+Welcome to my GitHub profile! I'm a passionate Software Engineer who loves exploring and creating innovative software solutions. My journey in tech is fueled by curiosity and a desire to make a positive impact through code. You can view my portfolio at - [https://ovovwero.vercel.app/]
 
 ---
 
